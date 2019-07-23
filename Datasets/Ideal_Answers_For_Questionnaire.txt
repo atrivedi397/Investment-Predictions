@@ -2,7 +2,7 @@
 * 1 means a person need not to save.
 
 1.  Age band you fall into?
-	{0:["20-29", "30-39", "40-49", "50-59", "60-69", "70-79"]
+	{0:["20-29", "30-39", "40-49", "50-59", "60-69", "70-79", "Prefer not to say"]
 	 1:["18-19", "20-29", "30-39"]
 	}
 2.  Your highest education level?
@@ -14,11 +14,12 @@
 	 1:["Self employed/Business", "In paid employment(Government service)", "In paid employment(Private/Corporate sector)"]
 	}
 4.  Which of these best describe the community you live in?
-	{0:["A village or rural area ( fewer than 3000 people)", "A small town ( 3000 to 15,000 people)", "A town ( 15,000 to about         100 000 people)", "A city ( 100 000 people to about 1 000 000 people)"]
+	{0:["A village or rural area ( fewer than 3000 people)", "A small town ( 3000 to 15,000 people)", "A town ( 15,000 to about         100 000 people)",
+	 "A city ( 100000 people to about 1 000 000 people)", "don't know", "refused", "Other: "]
 	 1:["A large city ( with over 1000 000 people)"]
 	}
 5.  Marital Status
-	{0:["Married", "Separated/divorced", ""Live-in with partner", "Widowed"]
+	{0:["Married", "Separated/divorced", ""Live-in with partner", "Widowed", "Prefer not to say"]
 	 1:["Single"]
 	}
 6.  how many children under the age of 18 live with you, in your household?
@@ -30,57 +31,61 @@
 	 1:[<=5]
 	}
 8.  Does your household have a budget?
-	{0:["No"]
+	{0:["No", "Don't know", 
+	"Prefer not to answer"]
 	 1:["Yes"]
 	}
 9.  Which of the following statements best describe your pattern for choosing a financial product/service
-	{0:["I consider several products from the same company", "I don't compare any products at all"]
+	{0:["I consider several products from the same company", "I don't compare any products at all"," Don't know", 
+	"Not applicable", 
+	"Prefer not to answer"]
 	 1:["I consider several products from different companies before making decision"]
 	}
 10. Which source of financial information infuences you the most?
-	{0:["Financial pages of newspaper/magazines", "Specialist magazines/publications like Forbes India, Business Today, etc.", 		"General advice from friends/relatives/employers", "Recommendations from independent financial advisor/broker", 
+	{0:[ "General advice from friends/relatives/employers", "Recommendations from independent financial advisor/broker", 
 	"TV/Radio advertisements",
-	"My own previous experience"]
-	 1:["Information picked up at any bank branch"]
+	"My own previous experience", "others"]
+	 1:["Financial pages of newspaper/magazines", "Specialist magazines/publications like Forbes India, Business Today, etc.","Information picked up at any 		bank branch"]
 	}
 11. Before I buy something, I carefully consider whether I can afford it
-	{0:["4", "5"]
+	{0:["3", "4", "5"]
 	 1:["1", "2"]
 	}
 12. I tend to live for today and let tomorrow take care of itself
-	{0:["1", "2"]
+	{0:["1", "2", "3"]
 	 1:["4", "5"]
 	}
 13. I find it more satisfying to spend money than to save it for the long term
-	{0:["1", "2"]
+	{0:["1", "2", "3"]
 	 1:["4", "5"]
 	}
 14. I pay my bills on time
-	{0:["4", "5"]
+	{0:["3", "4", "5"]
 	 1:["1", "2"]
 	}
 15. I am prepared to risk some of my own money when saving or making an investment
-	{0:["4", "5"]
+	{0:["3", "4", "5"]
 	 1:["1", "2"]
 	}
 16. I keep a close personal watch on my financial affairs
-	{0:["4", "5"]
+	{0:["3", "4", "5"]
 	 1:["1", "2"]
 	}
 17. I set a long term financial goals and strive to achieve them
-	{0:["4", "5"]
+	{0:["3", "4", "5"]
 	 1:["1", "2"]
 	}
 18. In the last 12 months, did your income seem not to cover your living costs?
-	{0:["No"]
+	{0:["No", "Don't know", "Not applicable","Prefer not to say"]
 	 1:["Yes"]
 	}
 19. In the past 12 months, have you been saving money in the following forms?
-	{0:["Saving cash at home", "Giving money to family on your behalf", "Saving an informal savings club", "Have not been actively 	saving"]
+	{0:["Saving cash at home", "Giving money to family on your behalf", "Saving an informal savings club", "Have not been actively saving", 	
+	"Buying livestock/property", "Don't know", "Prefer not to say"]
 	1:["Building up balance of money in bank account","Investing in financial products like stocks, shares, bonds, trusts, etc"]
 	}
 20. If you lost your main source of income, how long could you do without borrowing money?
-	{0:["Less than a week", "Less than a month", "Less than 3 months", "Less than 6 months"]
+	{0:["Less than a week", "Less than a month", "Less than 3 months", "Less than 6 months", "Don't know", "Prefer not to say"]
 	 1:["More than 6 months"]
 	}
 21. Which bracket does your household income fall into?
@@ -92,8 +97,8 @@
 	 1:["Side business", "Parental support", "Working spouse", "Rental income"]
 	}
 23. Considering all the sources of income, is your household income regular and reliable?
-	{0:["No"]
-	 1:["Yes']
+	{0:["No","Don't know", "Prefer not to answer"]
+	 1:["Yes"]
 	}
 24. Your retirement is covered under which of the following?
 	{0:["None"]
