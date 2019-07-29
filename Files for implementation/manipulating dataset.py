@@ -10,6 +10,7 @@ df = pd.read_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Predicti
 # print(df.shape)
 
 df.fillna(0, inplace=True)
+columns = list(df)
 
 for column in col_to_remove:
     df.drop(column, axis=1, inplace=True)
@@ -28,7 +29,7 @@ for questions in range(25):
     for index, row in df.iterrows():
         a = row[questions]
         response_list.append(a)
-    print(questions)
+    # print(questions)
     ans_list.append(answers[questions])
 
     # print(response_list)
@@ -43,7 +44,10 @@ for questions in range(25):
         elif value in answers[num][1]:
             index = response_list.index(value)
             response_list[index] = 1
-    print(response_list)
+
+    for column in range(len(columns)):
+        print(columns[column])
+        df[columns[column]] = response_list
 
     num += 1
     response_list = []
@@ -51,5 +55,9 @@ for questions in range(25):
 
 """to find how many value are nan/NAN"""
 # print(df[df.isna().any(axis=1)])
+# print(df.head())
 
 # print(answers[0])
+
+
+df.to_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_classified_data.csv", index=False)

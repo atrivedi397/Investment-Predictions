@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d442c35-e7a7-4d78-a006-85943c8b938e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Ideal_Answers_For_Questionnaire.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Ideal_Answers_For_Questionnaire.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Investment_Prediction(csv).csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Investment_Prediction(csv).csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/Investment_Prediction_munged.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Investment_Prediction_munged.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files for implementation/manipulating dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files for implementation/manipulating dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files for implementation/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files for implementation/try.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +62,11 @@
           <provider editor-type-id="csv-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Files for implementation/manipulating dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="84">
+              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -76,11 +74,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Files for implementation/try2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Files for implementation/try.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datasets/Dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="113" column="92" selection-start-line="113" selection-start-column="92" selection-end-line="113" selection-end-column="92" />
+            <state relative-caret-position="115">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -158,11 +177,11 @@
         <option value="$PROJECT_DIR$/Files for implementation/testfile2.py" />
         <option value="$PROJECT_DIR$/Files for implementation/try2.py" />
         <option value="$PROJECT_DIR$/Files for implementation/testfile.py" />
-        <option value="$PROJECT_DIR$/Files for implementation/try.py" />
         <option value="$PROJECT_DIR$/Datasets/Investment_Prediction(csv).csv" />
-        <option value="$PROJECT_DIR$/Files for implementation/manipulating dataset.py" />
         <option value="$PROJECT_DIR$/Datasets/Ideal_Answers_For_Questionnaire.txt" />
         <option value="$PROJECT_DIR$/Datasets/Dictionary.py" />
+        <option value="$PROJECT_DIR$/Files for implementation/try.py" />
+        <option value="$PROJECT_DIR$/Files for implementation/manipulating dataset.py" />
       </list>
     </option>
   </component>
@@ -177,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,8 +361,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.manipulating dataset" />
-        <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.try" />
+        <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.testfile" />
         <item itemvalue="Python.try2" />
       </list>
@@ -366,21 +385,20 @@
       <workItem from="1564060468313" duration="12041000" />
       <workItem from="1564204735543" duration="17235000" />
       <workItem from="1564310095421" duration="19780000" />
-      <workItem from="1564406585013" duration="2962000" />
+      <workItem from="1564406585013" duration="3919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89873000" />
+    <option name="totallyTimeSpent" value="90830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" id="Run" order="3" visible="true" weight="0.403177" />
+      <window_info id="Run" order="3" weight="0.403177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.3993174" />
@@ -429,8 +447,8 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Investment_Predictions$try.coverage" NAME="try Coverage Results" MODIFIED="1564392020436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
-    <SUITE FILE_PATH="coverage/Investment_Predictions$manipulating_dataset.coverage" NAME="manipulating dataset Coverage Results" MODIFIED="1564409997703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$try.coverage" NAME="try Coverage Results" MODIFIED="1564410757349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$manipulating_dataset.coverage" NAME="manipulating dataset Coverage Results" MODIFIED="1564411001586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
     <SUITE FILE_PATH="coverage/Investment_Predictions$testfile2.coverage" NAME="testfile2 Coverage Results" MODIFIED="1564061389026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
     <SUITE FILE_PATH="coverage/Investment_Predictions$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1564408766027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets" />
     <SUITE FILE_PATH="coverage/Investment_Predictions$try2.coverage" NAME="try2 Coverage Results" MODIFIED="1564115918406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
@@ -478,23 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files for implementation/try2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files for implementation/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -583,20 +584,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Files for implementation/manipulating dataset.py">
+    <entry file="file://$PROJECT_DIR$/Datasets/Dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="115">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files for implementation/try2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files for implementation/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Dictionary.py">
+    <entry file="file://$PROJECT_DIR$/Files for implementation/manipulating dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="113" column="92" selection-start-line="113" selection-start-column="92" selection-end-line="113" selection-end-column="92" />
+        <state relative-caret-position="84">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
