@@ -17,12 +17,12 @@
 4.  Which of these best describe the community you live in?
 	{0:["A village or rural area ( fewer than 3000 people)", "A small town ( 3000 to 15,000 people)",
 	 "A town ( 15,000 to about 100 000 people)",
-	 "A city ( 100000 people to about 1 000 000 people)", "don't know", "refused", "Other: "]
+	 "A city ( 100000 people to about 1 000 000 people)", "don't know", "refused", "Other: ", '150']
 	 1:["A large city ( with over 1000 000 people)"]
 	}
 5.  Marital Status
-	{0:["Married", "Separated/divorced", "Live-in with partner", "Widowed", "Prefer not to say"]
-	 1:["Single"]
+	{0:["Married", "Separated/divorced", "Live-in with partner", "Widowed", "Prefer not to say", 'Four']
+	 1:["Single", 'Unmarried ']
 	}
 6.  how many children under the age of 18 live with you, in your household?
 	{0:[>2]
