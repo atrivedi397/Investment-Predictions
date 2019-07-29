@@ -44,10 +44,10 @@ for questions in range(25):
         elif value in answers[num][1]:
             index = response_list.index(value)
             response_list[index] = 1
-
-    for column in range(len(columns)):
+    print(response_list)
+    """for column in range(len(columns)):
         print(columns[column])
-        df[columns[column]] = response_list
+        df[columns[column]] = response_list"""
 
     num += 1
     response_list = []
@@ -55,9 +55,5 @@ for questions in range(25):
 
 """to find how many value are nan/NAN"""
 # print(df[df.isna().any(axis=1)])
-# print(df.head())
 
-# print(answers[0])
-
-
-df.to_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_classified_data.csv", index=False)
+# df.to_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_classified_data.csv", index=False)
