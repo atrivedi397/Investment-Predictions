@@ -8,7 +8,7 @@ col_to_remove = ["Timestamp", "Please state your gender", "Does your household h
 
 df = pd.read_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction(csv).csv")
 # print(df.shape)
-
+c = 0
 df.fillna(0, inplace=True)
 columns = list(df)
 
@@ -20,20 +20,19 @@ df.drop(df.index[[0]], inplace=True)
 # print(df.shape)
 
 df.to_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_munged.csv", index=False)
+munged_df = pd.read_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_munged.csv")
+# print(munged_df)
 
 response_list = []
-ans_list = []
 num = 0
 
 for questions in range(25):
-    for index, row in df.iterrows():
+    for index, row in munged_df.iterrows():
         a = row[questions]
         response_list.append(a)
     # print(questions)
-    ans_list.append(answers[questions])
 
     # print(response_list)
-    # print(ans_list)
     """replacing the list of responses with 0 and 1 i.e. good classes or bad classes"""
 
     for value in response_list:
@@ -45,15 +44,15 @@ for questions in range(25):
             index = response_list.index(value)
             response_list[index] = 1
     print(response_list)
-    """for column in range(len(columns)): v
-        print(columns[column])
-        df[columns[column]] = response_list"""
+    # print(columns[questions])
+    munged_df[columns[questions]] = response_list
 
     num += 1
     response_list = []
     ans_list = []
-
+# print(munged_df)
 """to find how many value are nan/NAN"""
 # print(df[df.isna().any(axis=1)])
 
-# df.to_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_classified_data.csv", index=False)
+munged_df.to_csv("F:\Pycharm\Investment-Predictions\Datasets\Investment_Prediction_classified_data.csv", index=False)
+
