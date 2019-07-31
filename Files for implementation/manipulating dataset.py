@@ -45,7 +45,7 @@ for questions in range(25):
             index = response_list.index(value)
             response_list[index] = 1
     print(response_list)
-    """for column in range(len(columns)):
+    """for column in range(len(columns)): v
         print(columns[column])
         df[columns[column]] = response_list"""
 
