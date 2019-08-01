@@ -1,213 +1,213 @@
-Age band you fall into?,Your highest education level?,Which of the following best describes your current work situation?,Which of these best describe the community you live in?,Marital Status,"how many children under the age of 18 live with you, in your household?","how many  people aged 18 and over live with you, in your household. please do not count yourself ( Add if necessary: including your partner)?",Which of the following statements best describe your pattern for choosing a financial product/service,Which source of financial information influences you the most?,"Before I buy something, I carefully consider whether I can afford it",I tend to live for today and let tomorrow take care of itself,I find it more satisfying to spend money than to save it for the long term,I pay my bills on time,I am prepared to risk some of my own money when saving or making an investment,I keep a close personal watch on my financial affairs,I set a long term financial goals and strive to achieve them,"In the last 12 months, did your income seem not to cover your living costs?","In the past 12 months, have you been saving money in the following forms?","If you lost your main source of income, how long could you do without borrowing money?",Which bracket does your household income fall into?,"Which form of ""more than one"" source of income you have?","Considering all the sources of income, is your household income regular and reliable?",Your retirement is covered under which of the following?,Do you have any such habits?,"Suppose you put ₹10,000 into a <no fee> savings account with a guaranteed interest of 2% per year. You don't make any further payments into this account and you don't withdraw any money. How much would be in the account at the end of the first year, once the interest payment is made?",Timestamp,Please state your gender,Who is responsible for day-to-day monetary decisions in your household?,Does your household have a budget?,Money is there to be spent,"If yes, how did you manage to make ends meet?"
-1,1,0,1,1.0,1,0,0.0,1.0,0.0,0.0,0.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Rental income,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,1,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-0,1,1,0,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-0,0,1,1,1.0,0,0,0.0,1.0,0.0,1.0,0.0,0,1,0,0,0,1,1,"₹10,000-₹50,000 monthly",Parental support,Prefer not to answer,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,0,0,1.0,0,0,0.0,1.0,0.0,1.0,0.0,0,0,0,1,1,0,1,"above ₹1,00,000 monthly",Side business,Yes,Old Pension Scheme ( Pre 2004),Drinking,"₹ 10,200.00",0,1,1.0,0.0,1,1
-0,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,0,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Rental income,Yes,Others,None of the above,"₹ 10,200.00",0,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,0,0,0,"above ₹1,00,000 monthly",0,0,Employee Provident Fund (EPF);Public Provident Fund (PPF),0,Don't know,1,1,1.0,0.0,0,1
-1,1,1,1,1.0,1,1,0.0,1.0,0.0,1.0,1.0,1,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),None of the above,Don't know,1,1,1.0,0.0,1,1
-1,1,1,1,1.0,1,1,0.0,1.0,0.0,1.0,1.0,0,0,0,1,1,0,1,"above ₹1,00,000 monthly",Parental support,Yes,Old Pension Scheme ( Pre 2004),Drinking,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,0,0,1.0,0,1,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0,1,"₹10,000-₹50,000 monthly",Not applicable,Don't know,Others,Drinking;Smoking;Gambling,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,0,1,1.0,1,0,0.0,0.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF);Others,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Side business,Yes,Others,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF);Others,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-0,1,1,1,1.0,1,0,0.0,1.0,1.0,0.0,1.0,0,1,1,1,1,0,0,"above ₹1,00,000 monthly",Parental support,Yes,None,Drinking;Smoking,Don't know,1,1,1.0,0.0,1,0
-0,0,1,0,1.0,1,0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,1,0,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,None,Smoking,"₹ 10,200.00",1,1,1.0,0.0,0,0
-1,1,1,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,1,"₹10,000-₹50,000 monthly",Side business,Yes,Old Pension Scheme ( Pre 2004);New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF);Others,Smoking,"₹ 10,200.00",1,1,0.0,0.0,1,1
-1,1,1,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,0,1,0,1,0,"above ₹1,00,000 monthly",0,0,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,Don't know,1,1,1.0,0.0,0,1
-1,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,0,0,1,"above ₹1,00,000 monthly",Not applicable,No,None,Drinking,"₹ 10,200.00",1,1,1.0,0.0,0,0
-0,0,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-0,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Rental income,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,0,0,0,1,1,0,1,"above ₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),Smoking,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,1,1,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,0,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Don't know,None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,0
-0,1,1,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,1,0,0,1,0,1,"₹10,000-₹50,000 monthly",0,Yes,None,Drinking,"₹ 10,200.00",1,1,0.0,0.0,0,0
-0,1,0,1,1.0,1,1,0.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,1,1,1.0,1,0,0.0,0.0,1.0,1.0,1.0,0,1,0,1,0,0,1,"above ₹1,00,000 monthly",Not applicable,Prefer not to answer,None,Drinking;Smoking,"₹ 10,200.00",1,1,1.0,0.0,0,0
-0,1,1,1,1.0,1,0,0.0,0.0,1.0,1.0,0.0,0,0,0,0,0,0,0,"₹10,000-₹50,000 monthly",0,0,Employee Provident Fund (EPF);Public Provident Fund (PPF),0,Don't know,1,1,1.0,0.0,0,1
-1,0,1,1,1.0,1,1,0.0,0.0,1.0,1.0,1.0,0,0,0,0,1,1,0,"₹10,000-₹50,000 monthly",Parental support,Yes,None,None of the above,Don't know,1,1,0.0,0.0,1,0
-1,1,1,1,1.0,1,1,0.0,1.0,0.0,1.0,1.0,0,1,0,1,0,0,0,"above ₹1,00,000 monthly",Working spouse,0,Employee Provident Fund (EPF);Public Provident Fund (PPF),0,0,1,1,1.0,0.0,1,1
-1,1,1,1,0.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,0,0,1,"₹50,000-₹1,00,000 monthly",Parental support,Prefer not to answer,Public Provident Fund (PPF),Drinking;Smoking,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,1,0,0.0,0,0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Rental income,Prefer not to answer,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,0,1,10.0,1,0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Others,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,1,0,0,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Employee Provident Fund (EPF),Drinking,Don't know,1,1,1.0,0.0,1,1
-1,1,0,0,1.0,1,0,0.0,0.0,0.0,0.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,1,0,0.0,0,0,0.0,1.0,1.0,0.0,0.0,1,0,0,1,0,1,0,"₹50,000-₹1,00,000 monthly",Parental support,No,None,None of the above,Don't know,1,1,1.0,0.0,1,0
-1,1,1,1,1.0,1,1,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,0,1,"₹10,000-₹50,000 monthly",Parental support,Yes,Public Provident Fund (PPF);None,Drinking;Smoking,"₹ 10,200.00",1,1,1.0,0.0,1,1
-0,0,1,1,1.0,1,0,0.0,0.0,1.0,0.0,0.0,0,0,0,1,0,1,1,"above ₹1,00,000 monthly",Side business,Don't know,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-0,1,0,1,1.0,0,0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,0,0,1,"₹10,000-₹50,000 monthly",Not applicable,No,Others,Others,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,0,1,1,0.0,0,0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,0,1,"above ₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),Drinking;Smoking,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,0,0,1.0,1,1,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,1
-1,1,1,1,1.0,1,0,0.0,1.0,1.0,0.0,1.0,0,0,0,1,1,1,0,"above ₹1,00,000 monthly",Parental support,Yes,None,None of the above,Don't know,1,1,1.0,0.0,1,0
-0,1,1,0,0.0,1,0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,0,1,1,"above ₹1,00,000 monthly",Parental support,No,None,None of the above,"₹ 10,220.00",1,1,1.0,0.0,1,0
-1,0,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Side business,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-0,1,1,1,1.0,1,0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1,1,"above ₹1,00,000 monthly",Not applicable,Don't know,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,0
-0,0,0,0,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,0,1,1,"above ₹1,00,000 monthly",Not applicable,No,None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,0
-0,1,1,1,0.0,1,0,1.0,1.0,1.0,1.0,1.0,0,0,0,1,0,1,0,"above ₹1,00,000 monthly",0,0,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,Don't know,1,0,1.0,0.0,0,1
-1,1,1,1,0.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,1,0,1,0,1,"₹10,000-₹50,000 monthly",Rental income,Yes,None,Drinking,"₹ 10,200.00",1,1,0.0,0.0,1,0
-0,0,1,0,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0,0,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,Prefer not to answer,None,None of the above,"₹ 10,200.00",1,0,1.0,0.0,0,0
-0,0,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0,1,"₹50,000-₹1,00,000 monthly",Side business,Prefer not to answer,Employee Provident Fund (EPF);Public Provident Fund (PPF),Smoking,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,0,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,"₹10,000-₹50,000 monthly",Rental income,No,None,None of the above,Don't know,1,1,0.0,1.0,1,0
-1,1,0,1,0.0,1,0,0.0,1.0,1.0,1.0,0.0,0,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-0,0,1,1,1.0,1,0,0.0,0.0,0.0,0.0,1.0,0,0,0,1,0,1,1,"above ₹1,00,000 monthly",Side business,No,None,None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,0
-0,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,0,1,1,"₹10,000-₹50,000 monthly",Rental income,No,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,1
-0,0,1,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1,1,0,0,1,1,1,"upto ₹10,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-0,1,1,1,0.0,0,0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",0,0,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,0,1.0,1.0,0,1
-0,0,1,1,1.0,0,1,1.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,1,"upto ₹10,000 monthly",Side business,No,Public Provident Fund (PPF),Others,"₹ 10,200.00",1,1,0.0,1.0,1,1
-0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Others,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-0,1,0,1,1.0,0,0,0.0,1.0,1.0,0.0,0.0,0,0,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-0,1,1,1,0.0,1,0,1.0,1.0,1.0,1.0,1.0,0,0,0,0,1,1,0,"₹10,000-₹50,000 monthly",Parental support,Yes,None,None of the above,Don't know,1,0,1.0,0.0,1,0
-1,1,0,0,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1,1,1,0,1,0,1,"₹10,000-₹50,000 monthly",Side business,Yes,Public Provident Fund (PPF),Others,"₹ 10,200.00",0,1,1.0,0.0,1,1
-1,0,1,0,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,0,1,1,0,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Prefer not to answer,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,0,0,14.0,0,0,1.0,1.0,1.0,1.0,1.0,1,1,0,1,1,0,1,"above ₹1,00,000 monthly",Side business,Yes,Others,Others,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,0,0.0,1,0,0.0,0.0,1.0,0.0,0.0,1,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,0
-0,1,1,1,1.0,1,1,1.0,1.0,1.0,1.0,1.0,0,0,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Public Provident Fund (PPF),None of the above,Don't know,1,1,1.0,1.0,0,1
-1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,Old Pension Scheme ( Pre 2004);Others,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-0,0,0,0,0.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,0,"above ₹1,00,000 monthly",Rental income,Yes,None,None of the above,Don't know,1,1,1.0,1.0,1,0
-1,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,0,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,1,1,1.0,1,1,0.0,1.0,1.0,1.0,1.0,1,1,1,1,1,0,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,New National Pension Scheme (NPS),Drinking;Smoking,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,1,1.0,1,0,0.0,1.0,1.0,0.0,1.0,0,1,1,0,0,0,1,"₹10,000-₹50,000 monthly",Working spouse,Prefer not to answer,New National Pension Scheme (NPS),Drinking,"₹ 10,200.00",1,1,0.0,0.0,1,1
-0,1,0,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,200.00",0,1,1.0,0.0,0,1
-1,1,0,0,1.0,1,1,1.0,1.0,1.0,1.0,1.0,0,0,1,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,None,None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,0
-1,1,0,1,1.0,1,0,0.0,0.0,1.0,0.0,0.0,1,1,1,1,0,0,0,"above ₹1,00,000 monthly",Working spouse,No,New National Pension Scheme (NPS),Drinking;Smoking;None of the above,"₹ 10,222.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,0,0,0.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,1,0,0.0,1,0,0.0,1.0,1.0,0.0,1.0,0,1,0,1,1,0,1,"above ₹1,00,000 monthly",Rental income,Yes,Public Provident Fund (PPF);Others,Smoking,"₹ 10,200.00",1,1,0.0,1.0,1,1
-1,1,0,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,1
-1,0,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,1
-0,1,1,0,0.0,1,0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,Don't know,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,0
-1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,0,0,0,1,1,1,"₹10,000-₹50,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,1
-1,0,0,0,0.0,0,0,1.0,0.0,0.0,0.0,1.0,0,0,0,0,1,1,1,"₹10,000-₹50,000 monthly",Working spouse,Yes,Others,None of the above,"₹ 10,220.00",1,1,0.0,1.0,1,1
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,0,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,200.00",0,1,1.0,1.0,0,1
-1,1,1,1,1.0,1,1,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,0,1,"above ₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),Drinking,"₹ 10,200.00",1,1,0.0,1.0,1,1
-0,1,1,1,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,1,"upto ₹10,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,1,1,0,0.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,1,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1,1,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Side business,No,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,1
-1,1,1,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,1,1,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,Don't know,None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,0
-1,1,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,New National Pension Scheme (NPS);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,0,0,1.0,0,1,0.0,1.0,1.0,1.0,0.0,0,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,1,1.0,0,0,1.0,0.0,0.0,0.0,0.0,0,0,0,1,0,1,0,"₹50,000-₹1,00,000 monthly",Not applicable,No,New National Pension Scheme (NPS),None of the above,"₹ 10,000.00",1,1,0.0,1.0,0,1
-0,0,1,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,0,1,0,"₹10,000-₹50,000 monthly",Not applicable,Don't know,None,None of the above,Don't know,1,1,1.0,1.0,0,0
-1,0,1,0,0.0,1,0,1.0,0.0,0.0,1.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,1
-1,0,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,0,1,1,1,1,1,"above ₹1,00,000 monthly",Side business,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,220.00",1,1,1.0,1.0,1,1
-1,0,0,1,1.0,0,0,1.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS);Public Provident Fund (PPF);Others,None of the above,"₹ 10,200.00",0,1,1.0,0.0,1,1
-0,1,0,1,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,0.0,1.0,0,1,0,1,1,0,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),Smoking,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,0,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,000.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Don't know,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,1,1,1,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,0,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),Drinking;Smoking,"₹ 10,222.00",1,1,1.0,0.0,0,1
-1,0,1,0,1.0,1,0,1.0,1.0,0.0,0.0,0.0,1,0,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Don't know,Others;None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,1
-1,1,0,1,1.0,0,0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,0
-1,0,0,1,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,1,1,0,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Prefer not to answer,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,1,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,Others,None of the above,"₹ 10,220.00",1,1,0.0,1.0,1,1
-0,0,1,1,1.0,0,0,1.0,1.0,1.0,0.0,0.0,0,0,0,0,0,0,1,"₹10,000-₹50,000 monthly",Parental support,No,None,Drinking;Smoking;Gambling;Others,"₹ 10,200.00",1,1,0.0,0.0,1,0
-1,0,0,1,1.0,1,0,0.0,0.0,1.0,0.0,1.0,0,0,1,1,1,0,1,"₹50,000-₹1,00,000 monthly",Side business,Yes,None,Smoking,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,1,1,1,1.0,0,0,1.0,1.0,1.0,1.0,1.0,0,0,1,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,Others,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,0,"above ₹1,00,000 monthly",Side business,Yes,New National Pension Scheme (NPS),None of the above,Don't know,1,1,0.0,0.0,1,1
-0,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,0
-0,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,No,None,None of the above,"₹ 10,220.00",0,1,1.0,1.0,0,0
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,0.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,1
-0,0,1,0,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,1,0,1,1.0,0,0,0.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,0,1.0,1,0,1.0,1.0,1.0,0.0,1.0,0,1,1,1,1,0,1,"above ₹1,00,000 monthly",Working spouse,Yes,Employee Provident Fund (EPF),Drinking,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,0,1,"above ₹1,00,000 monthly",Rental income,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),Drinking,"₹ 10,200.00",1,1,0.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,1,0,1,"above ₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),Drinking;Smoking,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,0,0,0,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,0,"above ₹1,00,000 monthly",Working spouse,Yes,Others,None of the above,Don't know,1,1,0.0,0.0,1,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,0.0,0.0,1,0,1,0,1,1,1,"₹10,000-₹50,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,1,0,0,1,0,1,0,"₹50,000-₹1,00,000 monthly",Not applicable,Prefer not to answer,None,None of the above,Don't know,1,1,1.0,0.0,0,0
-0,0,0,1,0.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Rental income,Yes,None,None of the above,"₹ 10,220.00",1,1,1.0,0.0,1,0
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Side business,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,0,1.0,1,1,0.0,1.0,1.0,0.0,0.0,1,1,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,None,None of the above,Don't know,1,1,1.0,1.0,1,0
-0,0,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1,0,1,1,0,1,0,"₹50,000-₹1,00,000 monthly",Parental support,Don't know,None,None of the above,Don't know,1,1,0.0,0.0,1,0
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0,0,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,0,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,0,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),Smoking,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,1,1,0,0,1,"above ₹1,00,000 monthly",Not applicable,No,None,Drinking;Smoking,"₹ 10,200.00",1,1,1.0,1.0,0,0
-0,0,1,0,0.0,1,1,1.0,1.0,0.0,1.0,1.0,0,0,0,0,0,0,1,"₹10,000-₹50,000 monthly",Parental support,Don't know,None,Others,"₹ 10,200.00",1,1,1.0,1.0,1,0
-0,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,0,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),Drinking;None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,1,1.0,1,0,0.0,0.0,1.0,0.0,0.0,0,1,0,0,1,1,0,"₹10,000-₹50,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,000.00",1,1,1.0,0.0,1,1
-1,0,0,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Don't know,Others,None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,1
-1,1,1,0,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,1
-1,0,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1,0,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004);Public Provident Fund (PPF),None of the above,Don't know,1,1,1.0,1.0,1,1
-1,1,1,0,0.0,1,1,1.0,1.0,1.0,1.0,1.0,1,1,0,1,1,0,1,"above ₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),Smoking,"₹ 10,200.00",1,1,0.0,1.0,1,1
-0,0,0,0,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Rental income,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,1
-1,0,0,1,1.0,1,1,1.0,1.0,1.0,1.0,1.0,0,1,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,Don't know,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,0
-1,0,0,0,0.0,1,1,1.0,0.0,0.0,0.0,0.0,0,0,0,0,1,1,1,"₹10,000-₹50,000 monthly",Rental income,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF);Others,None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,1
-1,0,0,1,1.0,1,0,0.0,1.0,0.0,0.0,0.0,0,1,1,1,1,0,1,"above ₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),Drinking,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,1,1,1.0,1,0,1.0,1.0,0.0,0.0,0.0,0,0,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,1,1,1.0,1,0,0.0,1.0,0.0,1.0,0.0,1,0,0,0,0,1,1,"₹10,000-₹50,000 monthly",Rental income,No,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,1
-1,1,1,1,1.0,1,0,1.0,1.0,1.0,0.0,0.0,1,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,0,0,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0,0,0,1,0,1,1,"above ₹1,00,000 monthly",Not applicable,Don't know,Employee Provident Fund (EPF);Others,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,0,0,0,1.0,0,0,1.0,1.0,1.0,0.0,1.0,0,0,0,0,0,1,0,"₹10,000-₹50,000 monthly",Parental support,No,New National Pension Scheme (NPS),None of the above,Don't know,1,1,1.0,1.0,1,1
-0,1,0,1,1.0,1,0,0.0,1.0,0.0,0.0,0.0,1,0,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Others,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-0,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,0,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Prefer not to answer,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-0,0,0,1,1.0,1,1,1.0,0.0,0.0,0.0,0.0,1,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,220.00",1,1,0.0,1.0,0,1
-1,1,0,1,1.0,0,0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Rental income,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,0,1.0,1,0,0.0,0.0,1.0,1.0,0.0,0,0,0,1,0,1,0,"₹50,000-₹1,00,000 monthly",Parental support,No,New National Pension Scheme (NPS),None of the above,Don't know,1,1,1.0,0.0,1,1
-1,0,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,0,0,0,"upto ₹10,000 monthly",Side business,No,Others,Others,Don't know,1,1,1.0,0.0,1,1
-1,1,0,0,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,0,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF);Others,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,1.0,0.0,0.0,0.0,0.0,0,0,0,1,1,0,1,"above ₹1,00,000 monthly",Parental support,Yes,None,Drinking;Smoking,"₹ 10,200.00",1,1,0.0,0.0,1,0
-1,1,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,Others,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Working spouse,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-1,0,0,1,0.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Rental income,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,1
-1,1,0,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,1,0,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),Drinking,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,0,0,0.0,1,0,1.0,1.0,0.0,0.0,0.0,0,0,0,1,1,0,1,"above ₹1,00,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004),Smoking,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,0,0,1,1.0,1,0,1.0,0.0,0.0,0.0,0.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,220.00",1,1,0.0,0.0,0,1
-1,1,0,0,0.0,0,0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,0,0,1,"above ₹1,00,000 monthly",Parental support,Don't know,None,Drinking;Gambling,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,0,1,1.0,0,1,1.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,0,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,1,1.0,1,1,0.0,1.0,1.0,1.0,1.0,1,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,0,0,1.0,1,1,0.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,1
-0,0,1,1,0.0,0,1,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,0.0,0.0,1,0
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,1,1.0,1,0,1.0,0.0,0.0,0.0,0.0,1,0,0,1,1,0,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,None,Drinking;Smoking,"₹ 10,200.00",1,1,0.0,1.0,1,0
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1,1,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Others,None of the above,"₹ 10,222.00",0,1,1.0,0.0,1,1
-1,1,0,0,0.0,1,1,0.0,1.0,1.0,1.0,1.0,1,1,0,0,0,1,1,"₹10,000-₹50,000 monthly",Parental support,Don't know,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,0,1,1,0.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Parental support,Yes,None,None of the above,Don't know,1,1,1.0,0.0,1,0
-0,0,0,1,1.0,1,0,1.0,1.0,1.0,0.0,1.0,0,0,0,0,0,1,0,"₹10,000-₹50,000 monthly",Working spouse,Don't know,New National Pension Scheme (NPS),None of the above,Don't know,1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,0.0,0.0,0,1,1,1,1,0,0,"above ₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),Drinking,Don't know,1,1,0.0,1.0,0,1
-1,0,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"above ₹1,00,000 monthly",Working spouse,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,1,1,1.0,0,0,1.0,1.0,1.0,1.0,0.0,1,1,0,1,1,1,0,"above ₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF),None of the above,"₹ 10,000.00",1,1,1.0,0.0,0,1
-1,1,0,1,1.0,0,0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,0
-1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,1,0,0,1,1,0,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,None,Smoking,"₹ 10,200.00",1,1,1.0,0.0,0,0
-0,1,0,0,1.0,1,0,1.0,1.0,0.0,0.0,0.0,1,1,1,1,1,1,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,0,0,1,1.0,1,1,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,0.0,1,1
-1,1,1,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Parental support,Yes,Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-0,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,0,1,1,1,1,0,"above ₹1,00,000 monthly",Working spouse,Yes,None,None of the above,"₹ 10,222.00",1,1,1.0,1.0,1,0
-0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Working spouse,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,1
-1,1,0,1,1.0,1,1,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,1,"above ₹1,00,000 monthly",Not applicable,No,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,1,1,1.0,1,1,1.0,1.0,0.0,1.0,0.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,None,None of the above,"₹ 10,200.00",1,1,0.0,1.0,0,0
-0,0,0,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,0,0,0,0,0,1,0,"upto ₹10,000 monthly",Not applicable,Prefer not to answer,Others,None of the above,Don't know,1,1,1.0,1.0,0,1
-1,0,0,0,0.0,1,0,1.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Side business,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,0.0,1.0,1,1
-1,0,0,0,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",0,1,1.0,1.0,0,1
-1,1,0,0,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,1,0,1,"₹50,000-₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),Smoking,"₹ 10,200.00",1,1,1.0,0.0,0,1
-1,1,1,1,1.0,0,0,1.0,1.0,1.0,1.0,1.0,0,1,1,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,No,New National Pension Scheme (NPS);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,0,1.0,0,0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Rental income,Yes,Employee Provident Fund (EPF),None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,1
-0,0,1,0,1.0,1,1,1.0,1.0,1.0,1.0,0.0,0,0,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,Don't know,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,0
-1,0,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",1,1,0.0,0.0,0,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,New National Pension Scheme (NPS);Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,1
-1,1,0,1,1.0,1,0,1.0,1.0,1.0,0.0,0.0,0,1,1,1,0,0,1,"₹50,000-₹1,00,000 monthly",Not applicable,Don't know,Employee Provident Fund (EPF);Public Provident Fund (PPF);Others,Drinking;Smoking;Gambling;Others,"₹ 10,200.00",1,1,1.0,0.0,0,1
-0,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,1,0,0,0,1,0,1,"₹10,000-₹50,000 monthly",Parental support,Yes,None,Drinking;Smoking,"₹ 10,200.00",1,1,1.0,0.0,1,0
-0,0,1,1,1.0,1,1,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,1,"₹50,000-₹1,00,000 monthly",Parental support,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,1,0
-0,0,1,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,0,1,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,0
-1,0,0,0,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0,0,0,1,1,1,0,"above ₹1,00,000 monthly",Working spouse,Yes,Old Pension Scheme ( Pre 2004),None of the above,Don't know,0,1,1.0,1.0,1,1
-0,0,0,1,1.0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,1,0,1,1,1,"₹10,000-₹50,000 monthly",Not applicable,Yes,Employee Provident Fund (EPF);Public Provident Fund (PPF),None of the above,"₹ 10,200.00",0,1,1.0,0.0,0,1
-0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,"above ₹1,00,000 monthly",Not applicable,Yes,None,None of the above,"₹ 10,200.00",1,1,1.0,1.0,0,0
-1,1,0,1,1.0,1,1,1.0,1.0,0.0,1.0,1.0,1,1,0,0,0,1,1,"₹10,000-₹50,000 monthly",Not applicable,No,None,None of the above,"₹ 10,200.00",0,1,1.0,1.0,0,0
-1,0,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,1,"₹10,000-₹50,000 monthly",Parental support,Yes,New National Pension Scheme (NPS),None of the above,"₹ 10,200.00",0,1,1.0,1.0,1,1
-0,0,0,0,0.0,0,1,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,0,"₹50,000-₹1,00,000 monthly",Rental income,Yes,Old Pension Scheme ( Pre 2004),None of the above,Don't know,0,1,1.0,1.0,1,1
+Age band you fall into?,Your highest education level?,Which of the following best describes your current work situation?,Which of these best describe the community you live in?,Marital Status,"how many children under the age of 18 live with you, in your household?","how many  people aged 18 and over live with you, in your household. please do not count yourself ( Add if necessary: including your partner)?",Which of the following statements best describe your pattern for choosing a financial product/service,Which source of financial information influences you the most?,"Before I buy something, I carefully consider whether I can afford it",I tend to live for today and let tomorrow take care of itself,I find it more satisfying to spend money than to save it for the long term,I pay my bills on time,I am prepared to risk some of my own money when saving or making an investment,I keep a close personal watch on my financial affairs,I set a long term financial goals and strive to achieve them,"In the last 12 months, did your income seem not to cover your living costs?","In the past 12 months, have you been saving money in the following forms?","If you lost your main source of income, how long could you do without borrowing money?",Which bracket does your household income fall into?,"Which form of ""more than one"" source of income you have?","Considering all the sources of income, is your household income regular and reliable?",Your retirement is covered under which of the following?,Do you have any such habits?,"Suppose you put ₹10,000 into a <no fee> savings account with a guaranteed interest of 2% per year. You don't make any further payments into this account and you don't withdraw any money. How much would be in the account at the end of the first year, once the interest payment is made?",target
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,1,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,1,1,1,1
+1,1,0,1,1,0,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,0,1,1,0
+1,1,0,0,1,1,1.0,0,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0,1,0,0,1,0,0,1,1,0
+0,1,1,1,0,0,1.0,0,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,1,0,1,0
+1,1,0,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,1,0,1,1,1,1,1,0
+0,1,1,1,0,0,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,0,0,1,0,0,0
+1,1,1,1,1,1,1.0,1,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1,1,0,0,0,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,0,0
+1,1,1,1,1,1,1.0,1,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,1,1,1,0,1,0
+1,1,1,0,0,0,1.0,0,1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1,0,0,0,0,0,1,0,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0,1,1,1,1,1,1,1,1,0
+1,1,1,0,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,1,1,1
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,1,0,1,1,1,1,1,1
+1,1,0,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0,1,1,1,1,1,0,0,0,0
+1,1,0,0,1,0,1.0,1,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1,0,0,1,0
+1,1,1,1,1,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,1,1,0,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,0,1,0,0,1,1,0,0
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,0,0,0,0,1,0
+1,1,0,0,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,1,1,0,1,1,0
+1,1,0,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,1,0,1,0
+1,1,1,1,1,1,1.0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0,0,0,1,1,0,0,1,1,0
+1,1,0,1,1,1,1.0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0,1,0,0,0,1,0,0,1,0
+1,1,0,1,0,1,1.0,1,1,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,0,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0,1,0,1,0,0,0,0,1,0
+1,1,0,1,1,1,1.0,1,0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0,0,0,0,0,0,1,0,0,0
+1,1,1,0,1,1,1.0,1,1,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0,0,0,0,1,1,0,1,0,0
+1,1,1,1,1,1,1.0,1,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,0,1,0,0,1
+1,1,1,1,1,1,0.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,1,0,1,0,1,0
+1,1,1,1,1,0,0.0,0,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,1,0,0,1,1,0
+1,1,1,1,0,1,10.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,1,1,1,0,0,0
+1,1,1,1,0,0,1.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,1,0,0.0,0,0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1,0,0,1,1,0,0,1,0,0
+1,1,1,1,1,1,1.0,1,1,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,0,1,0
+1,1,0,0,1,1,1.0,1,0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,1,1,0,0,1,1,0
+1,1,0,1,0,1,1.0,0,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,0,0,1,0,1,0
+1,1,1,0,1,1,0.0,0,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,0,1,0
+1,1,1,0,0,0,1.0,1,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,0,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0,0,0,1,1,1,0,1,0,0
+1,1,0,1,1,0,0.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,1,0,0,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,1,1,0
+1,1,0,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,0,0,1,1,0
+1,1,0,0,0,0,1.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,0,0,0,1,1,0
+1,0,0,1,1,1,0.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,0,0,1,0,0,1,1,0,0
+1,1,1,1,1,1,0.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,1,0,1,1,0,0,1,0
+1,0,0,0,1,0,1.0,1,1,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0,0,0,0,0,0,0,1,1,0
+1,1,0,0,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,0,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0,0,0,1,1,0,1,0,1,0
+1,1,1,1,1,0,1.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,1,0,0
+1,1,1,1,0,1,0.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0,1,1,0,0,1,1,1,1,0
+1,1,0,0,1,1,1.0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0,0,0,1,1,0,0,1,1,0
+1,1,0,1,1,1,1.0,1,0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,1,0,1,1,1,0
+1,1,0,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1,1,0,0,0,1,1,1,1,0
+1,0,0,1,1,1,0.0,0,0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,0,0,1,1,1,0
+1,1,0,0,1,1,1.0,0,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0,0,0,0,1,0,1,0,1,0
+1,1,0,1,0,1,1.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,1,1,0
+1,1,0,1,0,1,1.0,0,0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0,0,0,1,0,1,1,1,1,0
+1,0,0,1,1,1,0.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,0,0,0,1,1,0,1,0,0
+0,1,1,1,0,0,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,1,0,1,1,1,0,1,0
+1,1,1,0,1,0,1.0,1,0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0,0,1,1,1,0,1,1,1,0
+1,1,1,0,0,0,14.0,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,0,1,1,1,1,0,1,0
+1,1,1,0,0,0,0.0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1,1,0,1,1,1,0,1,1,0
+1,1,0,1,1,1,1.0,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0,1,0,1,1,1,0,0
+1,1,1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,0,0,1,0,1,1,1,1,0
+1,1,0,0,0,0,0.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,0,1,0,0
+1,1,1,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,0,1,1,1,1,1,1
+1,1,1,1,0,0,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,1,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1,1,1,1,1,1,1,0,1,1
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0,1,1,0,1,0,1,0,1,0
+0,1,0,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,1,1,1,0,1,1,1,1,0
+0,1,1,1,0,0,1.0,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,1,1,1,1,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1,1,1,1,1,0,1,0,0,0
+1,1,1,1,0,1,1.0,0,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,1,0,0.0,1,0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0,1,0,1,1,1,1,0,1,0
+1,1,1,1,0,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,0,1,1,0,0.0,1,0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0,0,1,1,0
+0,1,1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0,0,1,1,1,1,1,0
+1,1,1,0,0,0,0.0,0,0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0,0,0,0,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,1,1,1
+0,1,1,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,1,1,0,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,1,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,0,1,0
+1,1,0,1,1,1,1.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,0,1,1,0
+1,1,1,1,1,0,0.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,1,0,1,1,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1,1,0,1,1,0,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1,1,0,0,0,0,0,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,1,1,1
+1,1,1,0,0,0,1.0,0,1,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0,1,1,0,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,0,0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0,1,1,0,0
+1,1,0,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,0,0,0,1,0,0
+1,1,1,0,1,0,0.0,1,0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,0,1,1,0
+1,1,1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,1,1,1,1,1,1,1,1
+0,1,1,0,0,1,1.0,0,0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,0,1,0,1,1.0,1,1,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0,1,0,1,1,1,1,0,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,1,0,1
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,1,0,0,1,1,0
+1,1,1,1,1,1,1.0,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,1,1,0,0,0
+1,1,1,0,1,0,1.0,1,0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1,0,0,1,1,0,1,1,1,0
+1,1,1,1,0,1,1.0,0,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,0,1,0,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0,1,1,1,1,0,0,1,1,0
+1,1,1,1,1,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,1,1,1,0
+1,1,0,0,1,1,1.0,0,0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0,0,0,0,1,0,0,0,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0,0,1,1,1,1,0,0,1,0
+1,1,1,1,1,1,1.0,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,1,0,1,1,1,1,1,1
+1,1,1,0,1,1,1.0,1,0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,1,1,0,0
+1,1,0,1,1,1,1.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0,0,0,1,0,1,0,1,1,0
+0,1,0,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,0,0,0,0,0,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,0,0,1,0,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,0,1,1,0
+1,1,1,1,0,1,1.0,0,0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,1,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0,1,1,1,1,1,1,0,1,1
+1,1,1,1,0,1,1.0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,0,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0,1,1,1,0,1,1,0,1,0
+1,1,1,0,0,0,1.0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,1,0,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1,0,1,0,1,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1,0,0,1,0,0,0,1,0,0
+1,1,0,0,0,1,0.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,1,1,1
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,0,0,1.0,1,1,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1,1,0,1,1,1,0,1,0,0
+1,1,0,0,0,1,1.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1,0,1,1,1,0,0,1,0,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,0,1,1,1,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,0,1,1,1,1,1
+1,1,1,1,0,0,1.0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,1,1,1,0,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,0,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,1,1,1,0,0,0,0,1,0
+1,1,0,0,1,0,0.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,0,0,0,1,0,0,0,1,0
+1,1,0,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,0,1,1,1,1,0
+1,1,1,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,1,0,1,1
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0,1,0,0,1,1,1,1,0,0
+1,1,1,0,0,1,1.0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,0,1,0,0,1,1,1,0
+1,1,1,1,1,0,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1,0,0,1,1,1,1,1,0,0
+1,1,1,1,1,0,0.0,1,1,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,0,1,1,1,1,0,1,1
+1,1,0,0,0,0,1.0,1,0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,0,0,0,1,1,0
+0,1,1,0,0,0,0.0,1,1,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0,0,0,0,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0,1,1,1,1,1,1,0,1,0
+1,1,1,0,1,1,1.0,1,0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0,0,0,1,1,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1,0,0,0,1,0,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1.0,1,0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1,1,0,0,0,1,1,1,1,0
+1,1,1,1,0,0,1.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,0,0,1,0,0,1,1,1,0
+1,1,1,0,0,0,1.0,0,0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0,0,0,0,1,0,1,1,0,0
+1,1,0,1,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1,0,0,1,1,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,1,0,0,0,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,1,1,1,1
+1,1,0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,1,0,0,1,1,1,0
+1,1,0,0,0,1,1.0,1,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1,1,0,1,0,1,1,1,1,0
+1,1,1,1,0,1,1.0,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,1,1,1,0
+1,1,1,0,0,0,1.0,1,0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0,0,0,1,1,0,1,1,0,0
+1,1,1,0,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,0,1,0,0,0
+1,1,1,1,0,0,1.0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,0,1,1,1,1,1,1,1,0
+1,1,0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,1,1,1,1,1,1
+1,1,1,1,0,1,1.0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,1,1,1,0,0,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,1,1,1,1
+1,1,1,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,1,1,0,1,1,0,1,1,0
+1,1,1,0,0,1,0.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,0,0,1,0,1,1,0,1,0
+1,1,1,1,0,0,0.0,1,0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0,0,0,1,1,1,1,0,1,0
+1,1,1,0,0,1,1.0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,1,0,1,0,1,1,1,1,0
+1,1,1,1,0,0,0.0,0,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0,1,1,0,0,0,1,0
+1,1,1,1,0,1,1.0,0,1,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,0,0,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0,1,1,1,1,1,1,1
+1,1,1,1,1,1,1.0,1,1,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,0,0,0,1,1,1,1,1
+0,1,1,1,0,0,1.0,1,1,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,1,1,0
+1,1,0,0,1,1,0.0,0,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,1,1,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1.0,1,0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1,0,0,1,1,1,0,0,1,0
+0,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,0,1,1,1,1,1,0,0
+1,1,1,1,0,0,0.0,1,1,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,0,0,1,0,1,1,1,0
+1,1,1,0,1,1,0.0,1,0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0,1,0,1,1,1,0,1,0,0
+1,1,0,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0,0,0,0,1,0,1,1,0,0
+1,1,1,1,0,1,1.0,1,0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0,1,1,1,0,1,1,0,0,0
+0,1,1,0,0,0,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1.0,0,0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1,1,0,1,0,1,1,1,0,0
+1,1,1,1,0,1,1.0,0,0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,1,1,1,0,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1,0,0,1,0,1,0,0,1,0
+1,1,0,1,0,0,1.0,1,0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1,1,1,1,0,1,1,1,1,0
+1,1,1,0,0,1,1.0,1,1,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,1,1,1,0
+1,1,1,1,1,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,1,1,1,1,1,1,1,1,1
+1,1,0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,0,1,1,1,1,0,1,0,0
+1,1,0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,1,1
+1,1,1,1,0,1,1.0,1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,0,1,1,1,1
+1,1,1,1,1,1,1.0,1,1,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0,1,0,0,0,1,0,1,1,0
+1,1,0,0,0,1,1.0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,0,0,0,0,0,1,1,0,0
+1,1,1,0,0,0,0.0,1,0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0,1,0,1,1,1,1,1,1,0
+0,1,1,0,0,0,1.0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,1,0,0,0,1,1,1,1,0
+1,1,1,1,0,0,1.0,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,0,1,1,0,1,0
+1,1,1,1,1,1,1.0,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,0,0,0,1,1,1,0
+1,1,1,1,0,0,1.0,0,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,0,1,1,1,1,0
+0,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,1,1,1,1,1,1,1,1
+1,1,0,0,1,0,1.0,1,1,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,0,0,0,0,0,0,1,1,0
+1,1,1,0,0,1,1.0,1,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,1,0,0,1,1,1,1,0
+1,1,1,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,1,1,1,1
+1,1,1,1,0,1,1.0,1,0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0,1,1,1,0,0,1,0,1,0
+1,1,0,1,1,1,1.0,1,0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1,0,0,0,1,1,0,0,1,0
+1,1,0,0,1,1,1.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,0,0,1,1,1,0,1,1,0
+1,1,0,0,1,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,0,1,0,0,1,0,1,1,0
+0,1,1,0,0,0,1.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,0,0,1,1,1,1,1,0,0
+0,1,0,0,0,1,1.0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0,1,1,0,0,1,1,1,1,0
+1,1,0,1,0,1,1.0,1,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1,1,0,1,0,1,1,0
+0,1,1,1,0,1,1.0,1,1,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1,1,0,0,0,0,0,1,1,0
+0,1,1,0,0,1,1.0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0,1,0,0,1,1,1,1,1,0
+0,1,0,0,0,0,0.0,0,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,0,1,1,1,1,1,0,0
