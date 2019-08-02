@@ -40,12 +40,13 @@
 	"Prefer not to answer"]
 	 1:["I consider several products from different companies before making decision"]
 	}
-9. Which source of financial information infuences you the most?
+9. Which source of financial information influences you the most?
 	{0:[ "General advice from friends/relatives/employers", "Recommendations from independent financial advisor/broker", 
 	"TV/Radio advertisements",
 	"My own previous experience", "others"]
-	 1:["Financial pages of newspaper/magazines", "Specialist magazines/publications like Forbes India,
-	  Business Today, etc.","Information picked up at any 		bank branch"]
+	 1:["Financial pages of newspaper/magazines",
+	 "Specialist magazines/publications like Forbes India,Business Today, etc.",
+	 "Information picked up at any bank branch"]
 	}
 10. Before I buy something, I carefully consider whether I can afford it
 	{0:["3", "4", "5"]

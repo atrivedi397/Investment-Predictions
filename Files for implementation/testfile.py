@@ -6,7 +6,7 @@ col_to_rem = ["Timestamp", "Please state your gender", "Does your household have
               "Money is there to be spent"]
 
 df = pd.read_csv("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction(csv).csv")
-df.fillna(0, inplace = True)
+df.fillna(0, inplace=True)
 print(df.shape)
 
 for column in col_to_rem:

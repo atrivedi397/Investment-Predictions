@@ -8,12 +8,17 @@
       <change afterPath="$PROJECT_DIR$/Files for implementation/try2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Lenovo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Lenovo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Datasets/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Datasets/Ideal_Answers_For_Questionnaire.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Ideal_Answers_For_Questionnaire.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Datasets/Investment_Prediction(csv).csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Investment_Prediction(csv).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Datasets/Investment_Prediction_munged.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Investment_Prediction_munged.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Files for implementation/testfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files for implementation/testfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Files for implementation/testfile2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files for implementation/testfile2.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Datasets/Investment_Prediction_classified_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/Investment_Prediction_classified_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files for implementation/manipulating dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files for implementation/manipulating dataset.py" afterDir="false" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +66,7 @@
       </usages-collector>
     </session>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -131,6 +137,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -141,6 +149,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -202,12 +211,19 @@
       </pane>
     </panes>
   </component>
+=======
+  <component name="ProjectId" id="1OinfRE2WiST6VnYUFIzj3YLcNQ" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="bookmar&#9;ACTION&#9;EditBookmarksGroup" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/Machine-Learning" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Machine-Learning/NAIVE BAYES" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -299,6 +315,8 @@
       <method v="2" />
     </configuration>
     <configuration name="testfile2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+<<<<<<< HEAD
+=======
       <module name="Investment-Predictions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,6 +338,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
+      <module name="Investment-Predictions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files for implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files for implementation/testfile2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files for implementation/try.py" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Selection_of_Pandas_series" />
       <item itemvalue="Python.testfile" />
@@ -329,9 +374,16 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.manipulating dataset" />
+<<<<<<< HEAD
         <item itemvalue="Python.testfile" />
         <item itemvalue="Python.testfile2" />
         <item itemvalue="Python.Selection_of_Pandas_series" />
+=======
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.testfile2" />
+        <item itemvalue="Python.Dictionary" />
+        <item itemvalue="Python.testfile" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
       </list>
     </recent_temporary>
   </component>
@@ -348,6 +400,7 @@
       <workItem from="1563461655869" duration="4902000" />
       <workItem from="1563524054701" duration="8134000" />
       <workItem from="1563602287485" duration="14663000" />
+<<<<<<< HEAD
       <workItem from="1563865540604" duration="4760000" />
     </task>
     <servers />
@@ -410,6 +463,20 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout-to-restore>
   </component>
+=======
+      <workItem from="1563865540604" duration="10156000" />
+      <workItem from="1564060468313" duration="12041000" />
+      <workItem from="1564204735543" duration="17235000" />
+      <workItem from="1564310095421" duration="19780000" />
+      <workItem from="1564406585013" duration="3919000" />
+      <workItem from="1564469226490" duration="49000" />
+      <workItem from="1564469395650" duration="2470000" />
+      <workItem from="1564581445000" duration="7884000" />
+      <workItem from="1564651973421" duration="4964000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -419,6 +486,7 @@
         <entry key="MAIN">
           <value>
             <State>
+<<<<<<< HEAD
               <option name="RECENTLY_FILTERED_USER_GROUPS">
                 <collection />
               </option>
@@ -433,12 +501,16 @@
                   <option value="3" />
                 </list>
               </option>
+=======
+              <option name="COLUMN_ORDER" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
             </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -635,5 +707,15 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Investment_Predictions$Selection_of_Pandas_series.coverage" NAME="Selection_of_Pandas_series Coverage Results" MODIFIED="1563524907219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pandas" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$testfile2.coverage" NAME="testfile2 Coverage Results" MODIFIED="1564582467438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$try.coverage" NAME="try Coverage Results" MODIFIED="1564646044152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$try2.coverage" NAME="try2 Coverage Results" MODIFIED="1564115918406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1564314085265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1564408766027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets" />
+    <SUITE FILE_PATH="coverage/Investment_Predictions$manipulating_dataset.coverage" NAME="manipulating dataset Coverage Results" MODIFIED="1564657026735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files for implementation" />
+>>>>>>> 30973ac4da6ea57af8ecbc118699368e80b05d4a
   </component>
 </project>
