@@ -14,7 +14,6 @@ col_to_remove = ["Timestamp", "Please state your gender", "Does your household h
                  "Money is there to be spent", "If yes, how did you manage to make ends meet?",
                  "What is your view about saving money?"]
 
-
 df = pd.read_csv("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction(csv).csv")
 # print(df.shape)
 
@@ -29,7 +28,6 @@ for i in range(0, 212):
 print(count_of_answers_given_by_person)
 
 the_ultimate_response_list = []
-""""""
 
 df.fillna(0, inplace=True)
 
@@ -160,6 +158,3 @@ y_pred = clf.predict(x_test)
 print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 print("Accuracy of the model : ", accuracy_score(y_pred=y_pred, y_true=y_test))
-
-
-
