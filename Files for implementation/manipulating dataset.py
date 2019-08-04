@@ -4,7 +4,7 @@ from sklearn import svm
 import seaborn as sns
 import matplotlib.pyplot as plt
 from Datasets.Dictionary import answers
-from sklearn.metrics import confusion_matrix,classification_report, accuracy_score
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
 from sklearn.model_selection import train_test_split
 
 # these are the columns / questions that are to be removed from the csv file.
@@ -139,11 +139,13 @@ for val in count_of_answers_given_by_person.values():
         num += 1
 
 munged_df["target"] = predicted_outcome
-munged_df.to_csv("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data.csv", index=False)
+munged_df.to_csv("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data.csv",
+                 index=False)
 
 
 """""""------------------------------------------------------------------------------------------------"""""""
-classified_dataframe = pd.read_csv("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data.csv")
+classified_dataframe = pd.read_csv("/home/atrivedi/Investment-Predictions/Datasets"
+                                   "/Investment_Prediction_classified_data.csv")
 x = classified_dataframe.iloc[:, :-1]
 y = classified_dataframe['target']
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.8)
@@ -158,3 +160,6 @@ y_pred = clf.predict(x_test)
 print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 print("Accuracy of the model : ", accuracy_score(y_pred=y_pred, y_true=y_test))
+
+sns.pairplot(data=classified_dataframe)
+plt.show()
