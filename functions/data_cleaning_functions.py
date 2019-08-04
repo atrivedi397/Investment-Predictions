@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 
 from Datasets.Dictionary import answers
 
-from .variables import *
+from functions.variables import *
 
 
 # function requires raw/original csv file and the list of columns to remove from the csv file
@@ -98,7 +98,7 @@ def count_all_responses(the_ultimate_response_list):
     return count_of_answers_given_by_person
 
 
-def adding_target_to_munged_csv_file(munged_csv_df, classified_csv_file):
+def adding_target_to_munged_csv_file(munged_csv_df, classified_csv_file, count_of_answers_given_by_person):
     # 0 : these guys must invest
     # 1 : these guys should not invest
 
