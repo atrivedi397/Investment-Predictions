@@ -2,11 +2,12 @@
 
 """--- structure = {person1 : {count_zeroes : number1, count_ones : number2}, ......}"""
 count_of_answers_given_by_person = {}
+# 212 = total number of persons that took the survey
 
 for i in range(0, 212):
     count_of_answers_given_by_person[i] = {"zeroes_count": 0, "ones_count": 0}
 
-
+# change the path of the original csv file according to your OS
 original_csv_file = "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction(csv).csv"
 
 # these are the columns / questions that are to be removed from the csv file.

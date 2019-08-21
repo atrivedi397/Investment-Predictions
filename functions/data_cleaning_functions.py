@@ -68,7 +68,6 @@ def class_representations(csv_file):
 
         num += 1
         response_list = []
-        ans_list = []
     return munged_df, the_ultimate_response_list
 
 
@@ -134,8 +133,7 @@ def classifier_and_prediction(csv_file):
     classified_dataframe = pd.read_csv(csv_file)
     x = classified_dataframe.iloc[:, :-1]
     y = classified_dataframe['target']
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.8)
-
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
     clf = svm.SVC(kernel='linear')
 
     clf.fit(x_train, y_train)
@@ -143,6 +141,4 @@ def classifier_and_prediction(csv_file):
     y_pred = clf.predict(x_test)
 
     # for model evaluation
-    print(confusion_matrix(y_test, y_pred))
-    print(classification_report(y_test, y_pred))
-    print("Accuracy of the model : ", accuracy_score(y_pred=y_pred, y_true=y_test))
+    return x_test, y_test, clf, confusion_matrix(y_test, y_pred), classification_report(y_test, y_pred), accuracy_score(y_pred=y_pred, y_true=y_test)
