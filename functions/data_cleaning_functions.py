@@ -129,11 +129,22 @@ def check_how_many_people_have_more_than_20_correct_answer(predicted_outcome):
             num += 1
 
 
-def classifier_and_prediction(csv_file):
-    classified_dataframe = pd.read_csv(csv_file)
-    x = classified_dataframe.iloc[:, :-1]
-    y = classified_dataframe['target']
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
+def classifier_and_prediction(csv_file=None, classified_dataframe=None):
+    x, y = None, None
+    try:
+        if csv_file is not None:
+            classified_dataframe = pd.read_csv(csv_file)
+            x = classified_dataframe.iloc[:, :-1]
+            y = classified_dataframe['target']
+        elif classified_dataframe is not None:
+            x = classified_dataframe.iloc[:, :-1]
+            y = classified_dataframe['target']
+
+    except csv_file is None and classified_dataframe is None:
+        print("program will terminate as both arguments are empty")
+        exit(0)
+
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.8, shuffle=False)
     clf = svm.SVC(kernel='linear')
 
     clf.fit(x_train, y_train)
