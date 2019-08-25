@@ -28,11 +28,17 @@ for age, target in zip(original_age_group, target_class):
         count_of_each_age_group_target_class_1[age] += 1
 
 
-print(count_of_each_age_group_target_class_0, "\n", count_of_each_age_group_target_class_1)
+print("count_of_each_age_group_target_class_0 : ", count_of_each_age_group_target_class_0)
+print("count_of_each_age_group_target_class_1 : ", count_of_each_age_group_target_class_1)
 
 y_values_target_0 = [4, 86, 74, 13, 1, 4, 1, 0]
 y_values_target_1 = [0, 10, 18, 0, 1, 0, 0, 0]
 
+people_in_different_age_group = {"18-19": 0, "20-29": 0, "30-39": 0, "40-49": 0, "50-59": 0, "60-69": 0, "70-79": 0, "Prefer not to say": 0}
+for age in original_age_group:
+    people_in_different_age_group[age] += 1
+
+print("people_in_different_age_group: ", people_in_different_age_group)
 """
 plt.title("Bar Graph")
 plt.xlabel("Age Group ---> ")
@@ -41,16 +47,17 @@ plt.bar(x_values, height=y_values_target_0, color="blue")
 plt.bar(x_values, height=y_values_target_1, color="yellow")
 """
 
-plt.title("Bar Graph")
-fig, ax = plt.subplots(nrows=2, ncols=2, figsize=(8, 8))
-ax[0, 1].bar(x_values, y_values_target_0, color="red")
-ax[0, 1].set_title("age vs number of people with poor fin. mgmnt")
-ax[0, 1].set_xlabel("Age Group ---> ")
-ax[0, 1].set_ylabel("persons for poor fin. management")
+# fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(10, 10))
+f, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 10))
 
-ax[1, 0].bar(x_values, y_values_target_1, color="green")
-ax[1, 0].set_title("age vs number of people with good fin. mgmnt")
-ax[1, 0].set_xlabel("Age Group ---> ")
-ax[1, 0].set_ylabel("persons for good fin. management")
+ax1.bar(x_values, y_values_target_0, color="red")
+ax1.set_title("age vs number of people with poor fin. mgmnt")
+ax1.set_xlabel("Age Group ---> ")
+ax1.set_ylabel("persons for poor fin. management")
+
+ax2.bar(x_values, y_values_target_1, color="green")
+ax2.set_title("age vs number of people with good fin. mgmnt")
+ax2.set_xlabel("Age Group ---> ")
+ax2.set_ylabel("persons for good fin. management")
 
 plt.show()
