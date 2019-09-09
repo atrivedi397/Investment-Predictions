@@ -16,3 +16,12 @@ col_to_remove = ["Timestamp", "Please state your gender", "Does your household h
                  "Who is responsible for day-to-day monetary decisions in your household?",
                  "Money is there to be spent", "If yes, how did you manage to make ends meet?",
                  "What is your view about saving money?"]
+
+
+columns_removed_from_classified = ["Your highest education level?", "Marital Status",
+                                   "Which bracket does your household income fall into?",
+                                   "Which form of \"more than one\" source of income you have?",
+                                   "Considering all the sources of income, is your household income regular and reliable?",
+                                   "Your retirement is covered under which of the following?"]
+
+columns_removed_from_classified2 = ["Do you have any such habits?"]

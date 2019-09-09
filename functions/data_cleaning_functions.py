@@ -20,7 +20,7 @@ def csv_file_clean(csv_file, columns_to_remove, new_csv_file=None):
 
     for column in columns_to_remove:
         df.drop(column, axis=1, inplace=True)
-    print(df.shape)
+    # print(df.shape)
 
     df.drop(df.index[[0]], inplace=True)
     df.to_csv(new_csv_file, index=False)
@@ -62,7 +62,7 @@ def class_representations(csv_file):
             print(columns[column])
             df[columns[column]] = response_list"""
 
-        print(response_list)
+        # print(response_list)
         # print(columns[questions])
         munged_df[columns[questions]] = response_list
 
@@ -72,7 +72,7 @@ def class_representations(csv_file):
 
 
 # data details for printing
-def print_data_details(the_ultimate_response_list):
+"""def print_data_details(the_ultimate_response_list):
     for i in range(25):
         print(the_ultimate_response_list[i])
 
@@ -84,9 +84,11 @@ def print_data_details(the_ultimate_response_list):
         num += 1
 
     print(len(count_of_answers_given_by_person))
-
+"""
 
 # count all the responses for all the persons
+
+
 def count_all_responses(the_ultimate_response_list):
     for i in range(212):
         for container in the_ultimate_response_list:
@@ -147,6 +149,7 @@ def classifier_and_prediction(csv_file=None, classified_dataframe=None):
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.8, shuffle=False)
     clf = svm.SVC(kernel='linear')
 
+    # print("y_train = ", y_train)
     clf.fit(x_train, y_train)
 
     y_pred = clf.predict(x_test)
