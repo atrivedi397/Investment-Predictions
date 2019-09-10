@@ -24,4 +24,8 @@ columns_removed_from_classified = ["Your highest education level?", "Marital Sta
                                    "Considering all the sources of income, is your household income regular and reliable?",
                                    "Your retirement is covered under which of the following?"]
 
-columns_removed_from_classified2 = ["Do you have any such habits?"]
+columns_removed_from_classified2 = ["Do you have any such habits?", "Before I buy something, I carefully consider whether I can afford it",
+                                    "I tend to live for today and let tomorrow take care of itself",
+                                    "I find it more satisfying to spend money than to save it for the long term",
+                                    "I pay my bills on time", "I am prepared to risk some of my own money when saving or making an investment",
+                                    "I keep a close personal watch on my financial affairs", "I set a long term financial goals and strive to achieve them"]
