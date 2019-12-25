@@ -144,7 +144,7 @@ def classifier_and_prediction(csv_file=None, classified_dataframe=None):
         print("program will terminate as both arguments are empty")
         exit(0)
 
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.8, shuffle=False)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.8, shuffle=True)
     clf = svm.SVC(kernel='linear')
 
     clf.fit(x_train, y_train)
