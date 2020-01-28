@@ -129,7 +129,7 @@ def check_how_many_people_have_more_than_20_correct_answer(predicted_outcome):
             num += 1
 
 
-def classifier_and_prediction(csv_file=None, classified_dataframe=None):
+def svm_classifier_and_prediction(csv_file=None, classified_dataframe=None):
     x, y = None, None
     try:
         if csv_file is not None:

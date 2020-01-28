@@ -29,7 +29,7 @@ accuracy = []
 for question in questions:
     dataframe.drop(columns=question)
     x_test, y_test, clf, confusion_matrix, classification_report, accuracy_score \
-        = classifier_and_prediction(classified_dataframe=dataframe)
+        = svm_classifier_and_prediction(classified_dataframe=dataframe)
     print(f"for question {question} : ", accuracy_score)
     # print("classification report : \n", classification_report)
     accuracy.append(accuracy_score)
