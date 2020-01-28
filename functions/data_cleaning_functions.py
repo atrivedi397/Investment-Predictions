@@ -62,7 +62,7 @@ def class_representations(csv_file):
             print(columns[column])
             df[columns[column]] = response_list"""
 
-        print(response_list)
+        # print(response_list)
         # print(columns[questions])
         munged_df[columns[questions]] = response_list
 

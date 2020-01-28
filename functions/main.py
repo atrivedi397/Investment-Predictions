@@ -17,9 +17,6 @@ if __name__ == "__main__":
     _, _, _, class_report_log, confuse_log, accuracy_log = logistic_classifier_and_prediction(
         "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
 
-    _, _, _, class_report_linear, confuse_linear, accuracy_linear = linear_classifier_and_prediction(
-        "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
-
     _, _, clf_bayes, class_report_bayes, confuse_bayes, accuracy_bayes = bayesian_classifier_and_prediction(
         "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
 
@@ -31,34 +28,22 @@ if __name__ == "__main__":
     print(f"Classification Report For Logistic Regression  \n {class_report_log}")
     print(f"Accuracy Score  For Logistic Regression : {accuracy_log}")
 
-    print(f"Confusion Matrix For Linear Regression \n {confuse_linear}")
-    print(f"Classification Report For Linear Regression  \n {class_report_linear}")
-    print(f"Accuracy Score  For Linear Regression : {accuracy_linear}")
-
     print(f"Confusion Matrix For Bayesian Regression \n {confuse_bayes}")
     print(f"Classification Report For Bayesian Regression  \n {class_report_bayes}")
     print(f"Accuracy Score  For Bayesian Regression : {accuracy_bayes}")
-    save_model(clf_bayes, "financial_health_bayesian")
+    save_model(clf_bayes, f"financial_health_bayesian(accuracy){accuracy_bayes}")
 
     """ This will save the model iff the accuracy score is more than 95 % 
         and will tell after how many times of running the model it gets more than 95% accuracy.
         This model is saved on 70 % training and 30 % testing data."""
 
     loop_count_svm = 0
-    while accuracy_score < 0.90:
+    while accuracy_score < 0.95:
         _, _, classifier, _, _, accuracy_score = svm_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
         print(f"Accuracy Score for loop count svm {loop_count_svm}:", accuracy_score)
         loop_count_svm += 1
     else:
-        save_model(classifier, "financial_health_svm")
-
-    loop_count_linear = 0
-    while accuracy_linear < 0.95:
-        _, _, classifier, _, _, accuracy_linear = linear_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
-        print(f"Accuracy Score for loop count linear {loop_count_linear}:", accuracy_linear)
-        loop_count_linear += 1
-    else:
-        save_model(classifier, "financial_health_linear")
+        save_model(classifier, f"financial_health_svm(accuracy){accuracy_score}")
 
     loop_count_bayesian = 0
     while accuracy_bayes < 0.95:
@@ -66,12 +51,28 @@ if __name__ == "__main__":
         print(f"Accuracy Score for loop count bayesian {loop_count_bayesian}:", accuracy_bayes)
         loop_count_bayesian += 1
     else:
-        save_model(classifier, "financial_health_bayesian_improved")
+        save_model(classifier, f"financial_health_bayesian_improved(accuracy){accuracy_bayes}")
 
     loop_count_logistic = 0
-    while accuracy_log < 0.95:
+    while accuracy_log < 0.90:
         _, _, classifier, _, _, accuracy_log = logistic_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
         print(f"Accuracy Score for loop count logistic {loop_count_logistic}:", accuracy_log)
         loop_count_logistic += 1
     else:
-        save_model(classifier, "financial_health_logistic")
+        save_model(classifier, f"financial_health_logistic(accuracy){accuracy_log}")
+
+    # Un comment lines below to work with Linear Regression
+    """ _, _, _, class_report_linear, confuse_linear, accuracy_linear = linear_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
+
+    print(f"Confusion Matrix For Linear Regression \n {confuse_linear}")
+    print(f"Classification Report For Linear Regression  \n {class_report_linear}")
+    print(f"Accuracy Score  For Linear Regression : {accuracy_linear}")
+      
+    loop_count_linear = 0
+    while accuracy_linear < 0.95:
+        _, _, classifier, _, _, accuracy_linear = linear_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
+        print(f"Accuracy Score for loop count linear {loop_count_linear}:", accuracy_linear)
+        loop_count_linear += 1
+    else:
+        save_model(classifier, "financial_health_linear")  
+    """

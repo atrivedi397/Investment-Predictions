@@ -1,0 +1,245 @@
+-----Results for SVM--------
+
+Confusion Matrix For SVM
+ [[139   6]
+ [ 13  12]]
+Classification Report For SVM 
+               precision    recall  f1-score   support
+
+           0       0.91      0.96      0.94       145
+           1       0.67      0.48      0.56        25
+
+    accuracy                           0.89       170
+   macro avg       0.79      0.72      0.75       170
+weighted avg       0.88      0.89      0.88       170
+
+Accuracy Score  For SVM : 0.888235294117647
+
+
+-------Results for Logistic Regression------
+
+Confusion Matrix For Logistic Regression
+ [[46  0]
+ [ 4  3]]
+Classification Report For Logistic Regression  
+               precision    recall  f1-score   support
+
+           0       0.92      1.00      0.96        46
+           1       1.00      0.43      0.60         7
+
+    accuracy                           0.92        53
+   macro avg       0.96      0.71      0.78        53
+weighted avg       0.93      0.92      0.91        53
+
+Accuracy Score  For Logistic Regression : 0.9245283018867925
+
+---------Results for Bayesian Regression----------
+
+Confusion Matrix For Bayesian Regression
+ [[47  0]
+ [ 6  0]]
+Classification Report For Bayesian Regression  
+               precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94        47
+           1       0.00      0.00      0.00         6
+
+    accuracy                           0.89        53
+   macro avg       0.44      0.50      0.47        53
+weighted avg       0.79      0.89      0.83        53
+
+Accuracy Score  For Bayesian Regression : 0.8867924528301887
+
+-----A basic model for Bayesian is saved with given accuracy. Don't worry! It might get changed into your computer
+saved as financial_health_bayesian(accuracy)0.88679245283018870.14.1.pkl
+
+
+------------Loop Counts for saving a model of SVM with more than 95% accuracy--------------
+
+Accuracy Score for loop count svm 0: 0.8705882352941177
+Accuracy Score for loop count svm 1: 0.8705882352941177
+Accuracy Score for loop count svm 2: 0.8705882352941177
+Accuracy Score for loop count svm 3: 0.8941176470588236
+Accuracy Score for loop count svm 4: 0.8647058823529412
+Accuracy Score for loop count svm 5: 0.8294117647058824
+Accuracy Score for loop count svm 6: 0.8529411764705882
+Accuracy Score for loop count svm 7: 0.8411764705882353
+Accuracy Score for loop count svm 8: 0.8705882352941177
+Accuracy Score for loop count svm 9: 0.8588235294117647
+Accuracy Score for loop count svm 10: 0.8117647058823529
+Accuracy Score for loop count svm 11: 0.9
+Accuracy Score for loop count svm 12: 0.8764705882352941
+Accuracy Score for loop count svm 13: 0.8823529411764706
+Accuracy Score for loop count svm 14: 0.8705882352941177
+Accuracy Score for loop count svm 15: 0.8647058823529412
+Accuracy Score for loop count svm 16: 0.9117647058823529
+Accuracy Score for loop count svm 17: 0.9058823529411765
+Accuracy Score for loop count svm 18: 0.9058823529411765
+Accuracy Score for loop count svm 19: 0.8470588235294118
+Accuracy Score for loop count svm 20: 0.8764705882352941
+Accuracy Score for loop count svm 21: 0.8705882352941177
+Accuracy Score for loop count svm 22: 0.888235294117647
+Accuracy Score for loop count svm 23: 0.9176470588235294
+Accuracy Score for loop count svm 24: 0.8411764705882353
+Accuracy Score for loop count svm 25: 0.9117647058823529
+Accuracy Score for loop count svm 26: 0.8823529411764706
+Accuracy Score for loop count svm 27: 0.8764705882352941
+Accuracy Score for loop count svm 28: 0.8588235294117647
+Accuracy Score for loop count svm 29: 0.8588235294117647
+Accuracy Score for loop count svm 30: 0.8411764705882353
+Accuracy Score for loop count svm 31: 0.8823529411764706
+Accuracy Score for loop count svm 32: 0.8647058823529412
+Accuracy Score for loop count svm 33: 0.8529411764705882
+Accuracy Score for loop count svm 34: 0.8823529411764706
+Accuracy Score for loop count svm 35: 0.8941176470588236
+Accuracy Score for loop count svm 36: 0.8176470588235294
+Accuracy Score for loop count svm 37: 0.8705882352941177
+Accuracy Score for loop count svm 38: 0.8705882352941177
+Accuracy Score for loop count svm 39: 0.8529411764705882
+Accuracy Score for loop count svm 40: 0.8705882352941177
+Accuracy Score for loop count svm 41: 0.9176470588235294
+Accuracy Score for loop count svm 42: 0.9058823529411765
+Accuracy Score for loop count svm 43: 0.9117647058823529
+Accuracy Score for loop count svm 44: 0.8588235294117647
+Accuracy Score for loop count svm 45: 0.8647058823529412
+Accuracy Score for loop count svm 46: 0.8941176470588236
+Accuracy Score for loop count svm 47: 0.8941176470588236
+Accuracy Score for loop count svm 48: 0.8529411764705882
+Accuracy Score for loop count svm 49: 0.888235294117647
+Accuracy Score for loop count svm 50: 0.9058823529411765
+Accuracy Score for loop count svm 51: 0.8647058823529412
+Accuracy Score for loop count svm 52: 0.8647058823529412
+Accuracy Score for loop count svm 53: 0.8941176470588236
+Accuracy Score for loop count svm 54: 0.9529411764705882
+
+saved as financial_health_svm(accuracy)0.95294117647058820.14.1.pkl
+
+
+------------Loop Count For Bayesian for saving an improved model with more than 95% accuracy--------------
+
+Accuracy Score for loop count bayesian 0: 0.8490566037735849
+Accuracy Score for loop count bayesian 1: 0.8301886792452831
+Accuracy Score for loop count bayesian 2: 0.8113207547169812
+Accuracy Score for loop count bayesian 3: 0.8867924528301887
+Accuracy Score for loop count bayesian 4: 0.8679245283018868
+Accuracy Score for loop count bayesian 5: 0.8490566037735849
+Accuracy Score for loop count bayesian 6: 0.8867924528301887
+Accuracy Score for loop count bayesian 7: 0.8301886792452831
+Accuracy Score for loop count bayesian 8: 0.8679245283018868
+Accuracy Score for loop count bayesian 9: 0.8679245283018868
+Accuracy Score for loop count bayesian 10: 0.8490566037735849
+Accuracy Score for loop count bayesian 11: 0.8867924528301887
+Accuracy Score for loop count bayesian 12: 0.8679245283018868
+Accuracy Score for loop count bayesian 13: 0.7924528301886793
+Accuracy Score for loop count bayesian 14: 0.9245283018867925
+Accuracy Score for loop count bayesian 15: 0.9056603773584906
+Accuracy Score for loop count bayesian 16: 0.8301886792452831
+Accuracy Score for loop count bayesian 17: 0.9056603773584906
+Accuracy Score for loop count bayesian 18: 0.8679245283018868
+Accuracy Score for loop count bayesian 19: 0.8867924528301887
+Accuracy Score for loop count bayesian 20: 0.8490566037735849
+Accuracy Score for loop count bayesian 21: 0.8301886792452831
+Accuracy Score for loop count bayesian 22: 0.8490566037735849
+Accuracy Score for loop count bayesian 23: 0.8490566037735849
+Accuracy Score for loop count bayesian 24: 0.8490566037735849
+Accuracy Score for loop count bayesian 25: 0.8490566037735849
+Accuracy Score for loop count bayesian 26: 0.8113207547169812
+Accuracy Score for loop count bayesian 27: 0.8679245283018868
+Accuracy Score for loop count bayesian 28: 0.9056603773584906
+Accuracy Score for loop count bayesian 29: 0.8113207547169812
+Accuracy Score for loop count bayesian 30: 0.8679245283018868
+Accuracy Score for loop count bayesian 31: 0.8113207547169812
+Accuracy Score for loop count bayesian 32: 0.8113207547169812
+Accuracy Score for loop count bayesian 33: 0.8867924528301887
+Accuracy Score for loop count bayesian 34: 0.8867924528301887
+Accuracy Score for loop count bayesian 35: 0.8490566037735849
+Accuracy Score for loop count bayesian 36: 0.9056603773584906
+Accuracy Score for loop count bayesian 37: 0.9056603773584906
+Accuracy Score for loop count bayesian 38: 0.8867924528301887
+Accuracy Score for loop count bayesian 39: 0.8867924528301887
+Accuracy Score for loop count bayesian 40: 0.9056603773584906
+Accuracy Score for loop count bayesian 41: 0.924528301886792
+Accuracy Score for loop count bayesian 42: 0.8490566037735849
+Accuracy Score for loop count bayesian 43: 0.8679245283018868
+Accuracy Score for loop count bayesian 44: 0.867924528301886
+Accuracy Score for loop count bayesian 45: 0.8301886792452831
+Accuracy Score for loop count bayesian 46: 0.9245283018867925
+Accuracy Score for loop count bayesian 47: 0.9056603773584906
+Accuracy Score for loop count bayesian 48: 0.8867924528301887
+Accuracy Score for loop count bayesian 49: 0.8867924528301887
+Accuracy Score for loop count bayesian 50: 0.7735849056603774
+Accuracy Score for loop count bayesian 51: 0.9056603773584906
+Accuracy Score for loop count bayesian 52: 0.8490566037735849
+Accuracy Score for loop count bayesian 53: 0.8490566037735849
+Accuracy Score for loop count bayesian 54: 0.8301886792452831
+Accuracy Score for loop count bayesian 55: 0.905660377358490
+Accuracy Score for loop count bayesian 56: 0.905660377358490
+Accuracy Score for loop count bayesian 57: 0.8679245283018868
+Accuracy Score for loop count bayesian 58: 0.8867924528301887
+Accuracy Score for loop count bayesian 59: 0.8113207547169812
+Accuracy Score for loop count bayesian 60: 0.9245283018867925
+Accuracy Score for loop count bayesian 61: 0.8679245283018868
+Accuracy Score for loop count bayesian 62: 0.8679245283018868
+Accuracy Score for loop count bayesian 63: 0.8301886792452831
+Accuracy Score for loop count bayesian 64: 0.8301886792452831
+Accuracy Score for loop count bayesian 65: 0.8113207547169812
+Accuracy Score for loop count bayesian 66: 0.8867924528301887
+Accuracy Score for loop count bayesian 67: 0.8679245283018868
+Accuracy Score for loop count bayesian 68: 0.8867924528301887
+Accuracy Score for loop count bayesian 69: 0.7735849056603774
+Accuracy Score for loop count bayesian 70: 0.8679245283018868
+Accuracy Score for loop count bayesian 71: 0.8679245283018868
+Accuracy Score for loop count bayesian 72: 0.8113207547169812
+Accuracy Score for loop count bayesian 73: 0.8490566037735849
+Accuracy Score for loop count bayesian 74: 0.9433962264150944
+Accuracy Score for loop count bayesian 75: 0.8679245283018868
+Accuracy Score for loop count bayesian 76: 0.7547169811320755
+Accuracy Score for loop count bayesian 77: 0.9056603773584906
+Accuracy Score for loop count bayesian 78: 0.8679245283018868
+Accuracy Score for loop count bayesian 79: 0.7735849056603774
+Accuracy Score for loop count bayesian 80: 0.8113207547169812
+Accuracy Score for loop count bayesian 81: 0.8867924528301887
+Accuracy Score for loop count bayesian 82: 0.7924528301886793
+Accuracy Score for loop count bayesian 83: 0.8301886792452831
+Accuracy Score for loop count bayesian 84: 0.9056603773584906
+Accuracy Score for loop count bayesian 85: 0.8490566037735849
+Accuracy Score for loop count bayesian 86: 0.8301886792452831
+Accuracy Score for loop count bayesian 87: 0.8867924528301887
+Accuracy Score for loop count bayesian 88: 0.8679245283018868
+Accuracy Score for loop count bayesian 89: 0.9245283018867925
+Accuracy Score for loop count bayesian 90: 0.8679245283018868
+Accuracy Score for loop count bayesian 91: 0.8867924528301887
+Accuracy Score for loop count bayesian 92: 0.9056603773584906
+Accuracy Score for loop count bayesian 93: 0.8490566037735849
+Accuracy Score for loop count bayesian 94: 0.8490566037735849
+Accuracy Score for loop count bayesian 95: 0.8679245283018868
+Accuracy Score for loop count bayesian 96: 0.9056603773584906
+Accuracy Score for loop count bayesian 97: 0.8679245283018868
+Accuracy Score for loop count bayesian 98: 0.9245283018867925
+Accuracy Score for loop count bayesian 99: 0.8679245283018868
+Accuracy Score for loop count bayesian 100: 0.8301886792452831
+Accuracy Score for loop count bayesian 101: 0.8113207547169812
+Accuracy Score for loop count bayesian 102: 0.9245283018867925
+Accuracy Score for loop count bayesian 103: 0.830188679245283
+Accuracy Score for loop count bayesian 104: 0.9056603773584906
+Accuracy Score for loop count bayesian 105: 0.7924528301886793
+Accuracy Score for loop count bayesian 106: 0.9245283018867925
+Accuracy Score for loop count bayesian 107: 0.8490566037735849
+Accuracy Score for loop count bayesian 108: 0.7547169811320755
+Accuracy Score for loop count bayesian 109: 0.8490566037735849
+Accuracy Score for loop count bayesian 110: 0.9433962264150944
+Accuracy Score for loop count bayesian 111: 0.8867924528301887
+Accuracy Score for loop count bayesian 112: 0.8867924528301887
+Accuracy Score for loop count bayesian 113: 0.8490566037735849
+Accuracy Score for loop count bayesian 114: 0.8490566037735849
+Accuracy Score for loop count bayesian 115: 0.8490566037735849
+Accuracy Score for loop count bayesian 116: 0.8113207547169812
+Accuracy Score for loop count bayesian 117: 0.886792452830188
+Accuracy Score for loop count bayesian 118: 0.8301886792452831
+Accuracy Score for loop count bayesian 119: 0.9622641509433962
+
+saved as financial_health_bayesian_improved(accuracy)0.96226415094339620.14.1.pkl
+
+-------------Logistic model saved with below accuracy----------------
+
+saved as financial_health_logistic(accuracy)0.92452830188679250.14.1.pkl
