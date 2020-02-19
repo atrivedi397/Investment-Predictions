@@ -3,16 +3,42 @@ from functions.variables import *
 from functions.saving_and_loading_this_model import *
 from other_models.logistic_linear_bayesian import *
 
+
+def log_bayes():
+    files = ["/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_without_behaviour.csv",
+             "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_without_income.csv",
+             "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_without_literacy.csv"]
+
+    without_questions = ["Without Behaviour Questions", "Without Income Questions", "Without Literacy Questions"]
+
+    for file, without in zip(files, without_questions):
+        _, _, _, class_report_log, confuse_log, accuracy_log = logistic_classifier_and_prediction(file)
+        print(f"Confusion Matrix For Logistic Regression {without} \n {confuse_log}")
+        print(f"Classification Report For Logistic Regression {without} \n {class_report_log}")
+        print(f"Accuracy Score  For Logistic Regression {without} : {accuracy_log}")
+
+    for file, without in zip(files, without_questions):
+        _, _, clf_bayes, class_report_bayes, confuse_bayes, accuracy_bayes = bayesian_classifier_and_prediction(file)
+        print(f"Confusion Matrix For Bayesian Regression {without}\n {confuse_bayes}")
+        print(f"Classification Report For Bayesian Regression  {without} \n {class_report_bayes}")
+        print(f"Accuracy Score  For Bayesian Regression {without} : {accuracy_bayes}")
+
+
 if __name__ == "__main__":
-    new_csv_file_with_removed_columns = csv_file_clean(original_csv_file, col_to_remove, "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_munged1.csv")
+    log_bayes()
+    new_csv_file_with_removed_columns = csv_file_clean(original_csv_file, col_to_remove,
+                                                       "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_munged1.csv")
 
     munged_df, the_ultimate_response_list = class_representations(new_csv_file_with_removed_columns)
 
     count_of_answers_by_person = count_all_responses(the_ultimate_response_list)
 
-    predicted_outcome = adding_target_to_munged_csv_file(munged_df, "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv", count_of_answers_by_person)
+    predicted_outcome = adding_target_to_munged_csv_file(munged_df,
+                                                         "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv",
+                                                         count_of_answers_by_person)
 
-    x_test, y_test, classifier, confusion_matrix, classification_report, accuracy_score = svm_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
+    x_test, y_test, classifier, confusion_matrix, classification_report, accuracy_score = svm_classifier_and_prediction(
+        "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
 
     _, _, _, class_report_log, confuse_log, accuracy_log = logistic_classifier_and_prediction(
         "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
@@ -39,7 +65,8 @@ if __name__ == "__main__":
 
     loop_count_svm = 0
     while accuracy_score < 0.95:
-        _, _, classifier, _, _, accuracy_score = svm_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
+        _, _, classifier, _, _, accuracy_score = svm_classifier_and_prediction(
+            "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
         print(f"Accuracy Score for loop count svm {loop_count_svm}:", accuracy_score)
         loop_count_svm += 1
     else:
@@ -47,7 +74,8 @@ if __name__ == "__main__":
 
     loop_count_bayesian = 0
     while accuracy_bayes < 0.95:
-        _, _, classifier, _, _, accuracy_bayes = bayesian_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
+        _, _, classifier, _, _, accuracy_bayes = bayesian_classifier_and_prediction(
+            "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
         print(f"Accuracy Score for loop count bayesian {loop_count_bayesian}:", accuracy_bayes)
         loop_count_bayesian += 1
     else:
@@ -55,7 +83,8 @@ if __name__ == "__main__":
 
     loop_count_logistic = 0
     while accuracy_log < 0.90:
-        _, _, classifier, _, _, accuracy_log = logistic_classifier_and_prediction("/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
+        _, _, classifier, _, _, accuracy_log = logistic_classifier_and_prediction(
+            "/home/atrivedi/Investment-Predictions/Datasets/Investment_Prediction_classified_data1.csv")
         print(f"Accuracy Score for loop count logistic {loop_count_logistic}:", accuracy_log)
         loop_count_logistic += 1
     else:
