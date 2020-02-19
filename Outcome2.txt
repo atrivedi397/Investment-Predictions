@@ -1,0 +1,104 @@
+Confusion Matrix For Logistic Regression Without Behaviour Questions
+ [[48  0]
+ [ 4  1]]
+Classification Report For Logistic Regression Without Behaviour Questions
+               precision    recall  f1-score   support
+
+           0       0.92      1.00      0.96        48
+           1       1.00      0.20      0.33         5
+
+    accuracy                           0.92        53
+   macro avg       0.96      0.60      0.65        53
+weighted avg       0.93      0.92      0.90        53
+
+Accuracy Score  For Logistic Regression Without Behaviour Questions : 0.9245283018867925
+
+------------------------------------------------------------------------------------------------------------------------
+
+Confusion Matrix For Logistic Regression Without Income Questions
+ [[46  1]
+ [ 2  4]]
+
+
+
+Classification Report For Logistic Regression Without Income Questions
+               precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97        47
+           1       0.80      0.67      0.73         6
+
+    accuracy                           0.94        53
+   macro avg       0.88      0.82      0.85        53
+weighted avg       0.94      0.94      0.94        53
+
+Accuracy Score  For Logistic Regression Without Income Questions : 0.9433962264150944
+
+------------------------------------------------------------------------------------------------------------------------
+
+Confusion Matrix For Logistic Regression Without Literacy Questions
+ [[47  0]
+ [ 3  3]]
+Classification Report For Logistic Regression Without Literacy Questions
+               precision    recall  f1-score   support
+
+           0       0.94      1.00      0.97        47
+           1       1.00      0.50      0.67         6
+
+    accuracy                           0.94        53
+   macro avg       0.97      0.75      0.82        53
+weighted avg       0.95      0.94      0.93        53
+
+Accuracy Score  For Logistic Regression Without Literacy Questions : 0.9433962264150944
+
+------------------------------------------------------------------------------------------------------------------------
+
+Confusion Matrix For Bayesian Regression Without Behaviour Questions
+ [[47  0]
+ [ 6  0]]
+Classification Report For Bayesian Regression  Without Behaviour Questions
+               precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94        47
+           1       0.00      0.00      0.00         6
+
+    accuracy                           0.89        53
+   macro avg       0.44      0.50      0.47        53
+weighted avg       0.79      0.89      0.83        53
+
+Accuracy Score  For Bayesian Regression Without Behaviour Questions : 0.8867924528301887
+
+------------------------------------------------------------------------------------------------------------------------
+
+Confusion Matrix For Bayesian Regression Without Income Questions
+ [[44  0]
+ [ 9  0]]
+Classification Report For Bayesian Regression  Without Income Questions
+               precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91        44
+           1       0.00      0.00      0.00         9
+
+    accuracy                           0.83        53
+   macro avg       0.42      0.50      0.45        53
+weighted avg       0.69      0.83      0.75        53
+
+Accuracy Score  For Bayesian Regression Without Income Questions : 0.8301886792452831
+
+------------------------------------------------------------------------------------------------------------------------
+
+Confusion Matrix For Bayesian Regression Without Literacy Questions
+ [[46  0]
+ [ 7  0]]
+Classification Report For Bayesian Regression  Without Literacy Questions
+               precision    recall  f1-score   support
+
+           0       0.87      1.00      0.93        46
+           1       0.00      0.00      0.00         7
+
+    accuracy                           0.87        53
+   macro avg       0.43      0.50      0.46        53
+weighted avg       0.75      0.87      0.81        53
+
+Accuracy Score  For Bayesian Regression Without Literacy Questions : 0.8679245283018868
+
+------------------------------------------------------------------------------------------------------------------------
